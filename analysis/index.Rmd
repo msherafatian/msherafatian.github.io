@@ -14,8 +14,4 @@ Welcome to my research website. here is the file (plot.Rmd)
 [analysis]
 
 
-[analysis](plot.Rmd)
-
-
-
 [analysis](plot.html)
